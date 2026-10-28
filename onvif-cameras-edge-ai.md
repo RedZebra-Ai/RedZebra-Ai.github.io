@@ -1,8 +1,4 @@
----
-title: ONVIF Cameras and Edge AI: What Works, What Doesn't, and How to Check
-layout: default
-
----
+# ONVIF Cameras and Edge AI: What Works, What Doesn't, and How to Check
 
 When a system integrator walks onto a new site, the camera fleet is rarely a single brand. A gated community might run one vendor at the gate, another in the parking structure, and a third for the perimeter. The first wall an analytics project hits is not the model — it is whether all those cameras can be read at all. ONVIF is the label everyone points to as the answer. This article separates what ONVIF reliably solves from what it does not, and gives a practical way to verify a camera before you commit to it.
 
